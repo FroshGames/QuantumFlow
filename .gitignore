@@ -71,6 +71,10 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+#Venv
+venv/
+#Data
+data/
 # PyBuilder
 .pybuilder/
 target/
